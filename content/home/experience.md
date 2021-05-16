@@ -31,10 +31,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Hhhh
-
-hhhh
-
-hhhh
-
-hhh
