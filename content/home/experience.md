@@ -2,27 +2,27 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
-    description: |-2
-        Responsibilities include:
+  - title: Research Assistant
+    company: Shenzhen University
+    # company_url: ""
+    # company_logo: org-gc
+    location: Shenzhen, Guangdong
+    date_start: 2020-08
+    date_end: 2021-05
+    # description: |-2
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    #    * Analysing
+    #    * Modelling
+    #    * Deploying
+  - title: Teaching Assistant
+    company: The Chinese University of Hong Kong
+    # company_url: ""
+    # company_logo: org-x
+    location: HKSAR
+    date_start: 2018-08-01
+    date_end: 2020-07-31
+    # description: Taught electronic engineering and researched semiconductor physics.
 widget_id: experience
 headless: true
 weight: 40
