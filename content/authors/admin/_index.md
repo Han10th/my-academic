@@ -40,4 +40,4 @@ highlight_name: false
 ---
 I graduated from the Division of Mathematics at The Chinese University of Hong Kong under the supervision of [Lok Ming (Ronald) Lui](http://www.lokminglui.com/). I got my B.Sc. degree from the School of Mathematics at Sun Yat-Sen University under the supervision of Ying Jiang. My research interests include Computational Geometry, Scientific Computing and Medical Image.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
