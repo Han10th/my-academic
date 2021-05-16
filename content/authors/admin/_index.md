@@ -1,6 +1,6 @@
 ---
 title: Han (Enthe) Zhang
-role: M.Phil in Applied Mathmatics
+role: M.Phil. in Applied Mathmatics
 bio: My research interests include computational geometry, scientific computing
   and medical images.
 interests:
