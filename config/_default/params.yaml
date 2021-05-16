@@ -126,7 +126,7 @@ comments:
     post: true
     book: true
     project: true
-    publication: true
+    publication: false
     event: true
   disqus:
     shortname: ''
