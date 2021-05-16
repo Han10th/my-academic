@@ -6,7 +6,7 @@
 title: HAN's homepage # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-disableKinds = ["publications"]
+disableKinds : ["publications"]
 ############################
 ## LANGUAGE
 ############################
