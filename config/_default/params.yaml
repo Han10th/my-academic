@@ -22,13 +22,13 @@ twitter: ''
 
 email: hanz.enthe@gmail.com
 #phone: 888 888 88 88
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
+address:
+  street: 702, L6, Shenzhen University
+  city: Shenzhen
+  region: Guangdong
 #  postcode: '94305'
-#  country: United States
-#  country_code: US
+  country: The People's Republic of China
+  country_code: CA
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
