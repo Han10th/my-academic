@@ -6,7 +6,7 @@ experience:
     company: Shenzhen University
     company_url: ""
     company_logo: org-gc
-    location: Shenzhen, China
+    location: Shenzhen
     date_start: 2020-08-01
     date_end: 2021-05-31
     description: |-2
