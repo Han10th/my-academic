@@ -25,4 +25,5 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  view: 2
 ---
