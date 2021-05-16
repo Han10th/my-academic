@@ -27,5 +27,5 @@ content:
   
 design:
   columns: '2'
-font: '10'
+font: 'xs'
 ---
