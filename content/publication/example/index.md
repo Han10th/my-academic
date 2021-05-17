@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
+  - Me
   - AA
   - BB
   - CC
