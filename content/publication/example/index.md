@@ -12,7 +12,7 @@ authors:
   - Hao Zhang
   - Hui Huang
 author_notes: []
-publication: In submission
+publication: Siggraph Asia 2021
 summary: >-
   We introduce the first path-oriented drone trajectory planning algorithm,
   which performs continuous (i.e., dense) image acquisition along an aerial path
@@ -36,7 +36,7 @@ summary: >-
    reconstruction, compared to existing planning methods and oblique photography, a mature and popular industry solution.
 url_dataset: ""
 url_project: ""
-publication_short: In sub
+publication_short: SIGA21
 url_source: ""
 url_video: ""
 title: Continuous Aerial Path Planning for 3D Urban Scene Reconstruction
