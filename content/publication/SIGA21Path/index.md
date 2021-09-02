@@ -61,4 +61,4 @@ url_poster: ""
 url_code: ""
 ---
 
-Supplementary notes can found [here](SIGA21Path_supp.pdf).
+Supplementary notes can found [here](SIGA21Path_supp.pdf). You can also find this project via [this page](https://vcc.tech/research/2021/DronePath).
