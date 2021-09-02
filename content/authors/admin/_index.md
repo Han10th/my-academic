@@ -33,6 +33,6 @@ email: hanz.enthe@gmail.com
 superuser: true
 highlight_name: false
 ---
-I graduated from the Division of Mathematics at The Chinese University of Hong Kong under the supervision of [Lok Ming (Ronald) Lui](http://www.lokminglui.com/). I got my B.Sc. degree from the School of Mathematics at Sun Yat-Sen University under the supervision of Ying Jiang. My research interests include Computational Geometry, Scientific Computing and Medical Image.
+I graduated from the Division of Mathematics at The Chinese University of Hong Kong under the supervision of [Prof. Lok Ming (Ronald) Lui](http://www.lokminglui.com/). I got my B.Sc. degree from the School of Mathematics at Sun Yat-Sen University under the supervision of Prof. Ying Jiang. I also have a precious experience at Shenzhen University with [Prof.Hui Huang](https://vcc.tech/~huihuang). My research interests include Computer Graphics, Computational Geometry, Scientific Computing and Medical Image.
 
 
