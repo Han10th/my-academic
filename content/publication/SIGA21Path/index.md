@@ -61,4 +61,4 @@ url_poster: ""
 url_code: ""
 ---
 
-You can watch the [demo](https://youtu.be/fFCgqmtM3kQ). You can also find the supplementary notes [here](SIGA21Path_supp.pdf). This project can also be found via [this page](https://vcc.tech/research/2021/DronePath).
+You can watch the [demo](https://youtu.be/fFCgqmtM3kQ) and find the [supplementary](SIGA21Path_supp.pdf) here. This project can also be found via [this page](https://vcc.tech/research/2021/DronePath).
