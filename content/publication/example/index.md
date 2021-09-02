@@ -49,6 +49,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+  filename: teaser_single_s.jpg
 date: 2021-09-02T10:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
