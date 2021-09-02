@@ -1,5 +1,25 @@
 ---
-abstract: ""
+abstract: "We introduce the first path-oriented drone trajectory planning
+  algorithm, which performs continuous (i.e., dense) image acquisition along an
+  aerial path and explicitly factors path quality into an optimization along
+  with scene reconstruction quality. Specifically, our method takes as input a
+  rough 3D scene proxy and produces a drone trajectory and image capturing
+  setup, which efficiently yields a high-quality reconstruction of the 3D scene
+  based on three optimization objectives: one to maximize the amount of 3D scene
+  information that can be acquired along the entirety of the trajectory, another
+  to optimize the scene capturing efficiency by maximizing the scene information
+  that can be acquired per unit length along the aerial path, and the last one
+  to minimize the total turning angles along the aerial path, so as to reduce
+  the number of sharp turns. Our search scheme is based on the rapidly-exploring
+  random tree framework, resulting in a final trajectory as a single path
+  through the search tree. Unlike state-of-the-art works, our joint optimization
+  for view selection and path planning is performed in a single step. We
+  comprehensively evaluate our method not only on benchmark virtual datasets as
+  in existing works but also on several large-scale real urban scenes. We
+  demonstrate that the continuous paths optimized by our method can effectively
+  reduce onsite acquisition cost using drones, while achieving high-fidelity 3D
+  reconstruction, compared to existing planning methods and oblique photography,
+  a mature and popular industry solution."
 slides: ""
 url_pdf: ""
 publication_types:
@@ -39,10 +59,6 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-We introduce the first path-oriented drone trajectory planning algorithm, which performs continuous (i.e., dense) image acquisition along an aerial path and explicitly factors path quality into an optimization along with scene reconstruction quality. Specifically, our method takes as input a rough 3D scene proxy and produces a drone trajectory and image capturing setup, which efficiently yields a high-quality reconstruction of the 3D scene based on three optimization objectives: one to maximize the amount of 3D scene information that can be acquired along the entirety of the trajectory, another to optimize the scene capturing efficiency by maximizing the scene information that can be acquired per unit length along the aerial path, and the last one to minimize the total turning angles along the aerial path, so as to reduce the number of sharp turns. Our search scheme is based on the rapidly-exploring random tree framework, resulting in a final trajectory as a single path through the search tree. Unlike state-of-the-art works, our joint optimization for view selection and path planning is performed in a single step. We comprehensively evaluate our method not only on benchmark virtual datasets as in existing works but also on several large-scale real urban scenes. We demonstrate that the continuous paths optimized by our method can effectively reduce onsite acquisition cost using drones, while achieving high-fidelity 3D reconstruction, compared to existing planning methods and oblique photography, a mature and popular industry solution.
-
-
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
