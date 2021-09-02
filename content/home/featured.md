@@ -17,7 +17,7 @@ content:
 design:
   view: 2
   background:
-    text_color_light: false
+    text_color_light: true
     color: ""
     gradient_start: ""
 ---
