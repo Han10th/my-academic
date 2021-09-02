@@ -43,7 +43,7 @@ publication_short: SIGA21
 url_source: ""
 url_video: ""
 title: Continuous Aerial Path Planning for 3D Urban Scene Reconstruction
-subtitle: Siggraph Asia 2021
+subtitle: ""
 doi: ""
 featured: true
 tags: []
