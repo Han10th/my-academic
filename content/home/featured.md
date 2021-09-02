@@ -15,7 +15,7 @@ content:
     tag: ""
   order: desc
 design:
-  view: 1
+  view: 3
   background:
     text_color_light: false
 ---
