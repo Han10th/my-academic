@@ -33,7 +33,6 @@ authors:
   - Hui Huang
 author_notes: []
 publication: Siggraph Asia 2021
-location: SIGA 2021
 summary: "We introduce the first path-oriented drone trajectory planning
   algorithm, which performs continuous (i.e., dense) image acquisition along an
   aerial path and explicitly factors path quality into an optimization along
