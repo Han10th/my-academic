@@ -4,6 +4,7 @@ role: Research Assistant
 bio: I am interested in computer graphics with computational geometry and
   scientific computing. I try to work with medicine.
 interests:
+  - Computer Graphics
   - Computational Geometry
   - Scientific Computing
   - Medical Image
