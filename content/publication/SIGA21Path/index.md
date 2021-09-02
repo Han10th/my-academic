@@ -21,7 +21,7 @@ abstract: "We introduce the first path-oriented drone trajectory planning
   reconstruction, compared to existing planning methods and oblique photography,
   a mature and popular industry solution."
 slides: ""
-url_pdf: ""
+url_pdf: "DronePath_supp.pdf"
 publication_types:
   - "1"
 authors:
