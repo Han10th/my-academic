@@ -23,12 +23,15 @@ twitter: ''
 email: hanz.enthe@gmail.com
 #phone: 888 888 88 88
 address:
-  street: G06, Lady Shaw Building, The Chinese University of Hong Kong
-  city: Sha Tin
-  region: Hong Kong
+  - 'G06, Lady Shaw Building,'
+  - 'The Chinese University of Hong Kong'
+  - 'Sha Tin, Hong Kong SAR'
+  #street: G06, Lady Shaw Building, The Chinese University of Hong Kong
+  #city: Sha Tin
+  #region: Hong Kong
 #  postcode: '94305'
-  country: The People's Republic of China
-  country_code: CA
+#  country: The People's Republic of China
+#  country_code: CA
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
