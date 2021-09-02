@@ -17,5 +17,5 @@ content:
 design:
   view: 2
   background:
-    text_color_light: true
+    text_color_light: false
 ---
