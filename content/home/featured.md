@@ -16,8 +16,4 @@ content:
   order: desc
 design:
   view: 2
-  background:
-    text_color_light: false
-    color: ""
-    gradient_start: ""
 ---
