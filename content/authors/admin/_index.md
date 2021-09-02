@@ -1,8 +1,8 @@
 ---
 title: Han Zhang
-role: M.Phil. in Applied Mathmatics
-bio: My research interests include computational geometry, scientific computing
-  and medical images.
+role: Research Assistant
+bio: I am interested in computer graphics with computational geometry and
+  scientific computing. I try to work with medicine.
 interests:
   - Computational Geometry
   - Scientific Computing
