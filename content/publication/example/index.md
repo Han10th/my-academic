@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: Continuous Aerial Path Planning for 3D Urban Scene Reconstruction
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - Reconstruction
