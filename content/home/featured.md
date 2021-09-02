@@ -16,4 +16,6 @@ content:
   order: desc
 design:
   view: 2
+  background:
+    text_color_light: true
 ---
