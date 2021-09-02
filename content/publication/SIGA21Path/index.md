@@ -41,7 +41,7 @@ url_dataset: ""
 url_project: ""
 publication_short: "*SIGA21*"
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/fFCgqmtM3kQ"
 title: Continuous Aerial Path Planning for 3D Urban Scene Reconstruction
 subtitle: ""
 doi: ""
@@ -61,4 +61,4 @@ url_poster: ""
 url_code: ""
 ---
 
-Supplementary notes can found [here](SIGA21Path_supp.pdf). You can also find this project via [this page](https://vcc.tech/research/2021/DronePath).
+You can watch the [demo](https://youtu.be/fFCgqmtM3kQ). You can also find the supplementary notes [here](SIGA21Path_supp.pdf). This project can also be found via [this page](https://vcc.tech/research/2021/DronePath).
