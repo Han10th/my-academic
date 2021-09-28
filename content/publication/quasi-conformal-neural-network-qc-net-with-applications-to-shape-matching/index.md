@@ -32,4 +32,5 @@ summary: "We build a deep neural network based on quasi-conformal theories,
   learn from the network. "
 date: 2020-07-31T00:00:00.000Z
 ---
-The official digital collection of CUHK can be found [here](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2627843?solr_nav%5Bid%5D=111033d1314027e0619c&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=2)
+The official digital collection of CUHK can be found [here](	
+https://repository.lib.cuhk.edu.hk/en/item/cuhk-2627843)
