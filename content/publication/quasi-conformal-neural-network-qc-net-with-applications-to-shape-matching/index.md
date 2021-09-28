@@ -20,7 +20,7 @@ abstract: We build a deep neural network based on quasi-conformal theories,
   successfully applied to various real applications, such as medical image
   registration and human face matching.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
