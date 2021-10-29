@@ -4,6 +4,7 @@ publication_types:
   - "7"
 authors:
   - "*Admin*"
+  - Lok Ming Lui
 publication: Submitted
 abstract: We build a deep neural network based on quasi-conformal theories,
   called QC-net, to obtain diffeomorphic registration maps between corresponding
@@ -20,7 +21,7 @@ abstract: We build a deep neural network based on quasi-conformal theories,
 draft: false
 featured: true
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 summary: "We build a deep neural network based on quasi-conformal theories,
