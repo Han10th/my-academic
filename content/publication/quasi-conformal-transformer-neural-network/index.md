@@ -8,7 +8,7 @@ authors:
   - Lok Ming Lui
 publication_short: Submitted
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
