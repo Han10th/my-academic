@@ -7,7 +7,7 @@ authors:
   - "*Admin*"
   - Lok Ming LUI
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
