@@ -22,7 +22,7 @@ abstract: Information is not generally distributed uniformly in an image domain.
 draft: false
 featured: true
 image:
-  filename: null
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Information is not generally distributed uniformly in an image domain.
