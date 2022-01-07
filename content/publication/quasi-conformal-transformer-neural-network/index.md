@@ -1,12 +1,12 @@
 ---
-title: Quasi-Conformal Transformer Neural Network
+title: Quasi-Conformal Transformer Network
 publication_types:
   - "0"
 authors:
   - "*Admin*"
   - Qiguang Chen
   - Lok Ming Lui
-publication_short: Submitted
+publication_short: Manuscript
 abstract: Information is not generally distributed uniformly in an image domain.
   Thus, to make the convolutional neural network focus more on those important,
   some deformation on convolution windows or feature maps should be applied.
@@ -22,7 +22,7 @@ abstract: Information is not generally distributed uniformly in an image domain.
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
 summary: Information is not generally distributed uniformly in an image domain.
