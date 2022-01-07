@@ -33,3 +33,6 @@ summary: Information is not generally distributed uniformly in an image domain.
   defining the convolution operation.
 date: 2021-10-29T06:10:47.414Z
 ---
+
+
+url_pdf: "quasi-conformal-transformer-neural-network.pdf"
