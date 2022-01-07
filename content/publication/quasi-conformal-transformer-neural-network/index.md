@@ -5,6 +5,7 @@ publication_types:
 authors:
   - "*Admin*"
   - Qiguang Chen
+  - Yuchen Guo
   - Lok Ming Lui
 publication_short: Manuscript
 abstract: Information is not generally distributed uniformly in an image domain.
