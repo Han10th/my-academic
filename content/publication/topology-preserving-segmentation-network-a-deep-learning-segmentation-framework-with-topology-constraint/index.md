@@ -4,8 +4,8 @@ title: "Topology-Preserving Segmentation Network: A Deep Learning Segmentation
 publication_types:
   - "0"
 authors:
-  - "*admin"
-  - LokMingLUI
+  - "*Admin*"
+  - Lok Ming LUI
 draft: false
 featured: false
 image:
