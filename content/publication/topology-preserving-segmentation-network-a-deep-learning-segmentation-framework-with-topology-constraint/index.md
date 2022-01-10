@@ -20,4 +20,3 @@ image:
 date: 2022-01-07T13:26:19.294Z
 ---
 
-url_pdf: "topology-preserving-segmentation-network-a-deep-learning-segmentation-framework-with-topology-constraint.pdf"
