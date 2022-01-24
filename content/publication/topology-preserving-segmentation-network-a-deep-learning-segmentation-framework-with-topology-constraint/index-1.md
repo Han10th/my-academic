@@ -10,7 +10,7 @@ abstract: In this work, we propose a new framework that enable prior knowleadge
   usage for deep learning model. Through such prior knowleadge, there will be no
   outliers in the predicted output. Besides, we can also combining standard
   U-Net with topology-preserving network to remove the outliers and noise in the
-  predicted masks of U-Net.
+  predicted masks of UNet.
 draft: false
 featured: true
 image:
