@@ -6,7 +6,6 @@ bio: I am interested in computer graphics with computational geometry and
 interests:
   - Computer Graphics
   - Computational Geometry
-  - Scientific Computing
   - Medical Image
 social:
   - icon: envelope
