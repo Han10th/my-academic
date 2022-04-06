@@ -1,12 +1,10 @@
 ---
 title: Han Zhang
 role: Research Assistant
-bio: I am interested in computer graphics with computational geometry and
-  scientific computing. I try to work with medicine.
+bio: I am interested in medical imaging and computational geometry.
 interests:
-  - Computer Graphics
-  - Computational Geometry
   - Medical Image
+  - Computational Geometry
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,6 +30,6 @@ email: hanz.enthe@gmail.com
 superuser: true
 highlight_name: false
 ---
-I graduated from the Division of Mathematics at The Chinese University of Hong Kong under the supervision of [Prof. Lok Ming (Ronald) Lui](http://www.lokminglui.com/). I got my B.Sc. degree from the School of Mathematics at Sun Yat-Sen University under the supervision of Prof. Ying Jiang. I also have a precious experience at Shenzhen University with [Prof.Hui Huang](https://vcc.tech/~huihuang). My research interests include Computer Graphics, Computational Geometry, Scientific Computing and Medical Image.
+I graduated M.Phil. from the Division of Mathematics at The Chinese University of Hong Kong under the supervision of [Prof. Lok Ming (Ronald) Lui](http://www.lokminglui.com/). I got my B.Sc. degree from the School of Mathematics at Sun Yat-Sen University under the supervision of Prof. Ying Jiang. I also have a precious experience at Shenzhen University with [Prof.Hui Huang](https://vcc.tech/~huihuang). My research interests include Medical Imaging and Computational Geometry.
 
 
