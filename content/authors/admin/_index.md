@@ -1,6 +1,6 @@
 ---
 title: Han Zhang
-role: Research Assistant
+role: 
 bio: I am interested in medical imaging and computational geometry.
 interests:
   - Medical Image
@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://github.com/Han10th
 organizations:
-  - name: The Chinese University of Hong Kong
+  - name: 
     url: ""
 education:
   courses:
